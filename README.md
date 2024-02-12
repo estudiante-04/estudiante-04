@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola, soy Facundo! 👋
+
+- 🔭Actualmente estoy trabajando en la industria automotriz de Cordoba
+- 🌱 Me escuentro estudiando programacion, profundizando conceptos y experiencias pero desde afuera, no trabajando en el sector.
+- 📫 La forma de conectarme es a travez de mi email: facusanchez337@gmail.com
+- 😄 Pronombres: Facu, enano y pela, jiji
 
 <!--
 **estudiante-04/estudiante-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
