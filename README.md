@@ -2,7 +2,7 @@
 <h1 align='center'>Hola soy Facu!</h1>
 </div>
 
-![IMAGEN2](imagenes/IMAGEN2.png)
+![imagen 1](imagenes/imagen 1)
 
 
 - 🔭Actualmente estoy trabajando en la industria automotriz de Cordoba
