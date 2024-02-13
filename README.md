@@ -13,7 +13,7 @@
   - windows, linux
   - AWS
   - Terraform
-  - Terragraund
+  - Terragrunt
   - Pulumi
   - Docker
   - Kubernetes
