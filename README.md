@@ -1,8 +1,9 @@
 <div align='center'>
 <h1 align='center'>Hola soy Facu!</h1>
 </div>
-
+<div align='center'>
 ![IMAGEN1](imagenes/IMAGEN1.png)
+</div>
 
 
 - 🔭Actualmente estoy trabajando en la industria automotriz de Cordoba
