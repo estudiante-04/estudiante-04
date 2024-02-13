@@ -1,7 +1,14 @@
-### Hola, soy Facundo! 👋
+<div align='center'>
+<h1 align='center'>Hola soy Facu!</h1>
+</div>
+
+![imagen]()
+
 
 - 🔭Actualmente estoy trabajando en la industria automotriz de Cordoba
 - 🌱 Me escuentro estudiando programacion, profundizando conceptos y experiencias pero desde afuera, no trabajando en el sector.
+- 🚀 Aprendi las siguientes herramientas:
+  
 - 📫 La forma de conectarme es a travez de mi email: facusanchez337@gmail.com
 - 😄 Pronombres: Facu, enano y pela, jiji
 
@@ -18,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hola, soy Facundo! 👋
+
 -->
