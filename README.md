@@ -2,7 +2,7 @@
 <h1 align='center'>Hola soy Facu!</h1>
 </div>
 
-![imagen](https://github.com/estudiante-04/estudiante-04/main/imagenes/imagen 1)
+![imagen 1](https://github.com/estudiante-04/estudiante-04/imagenes/imagen 1)
 
 
 - 🔭Actualmente estoy trabajando en la industria automotriz de Cordoba
