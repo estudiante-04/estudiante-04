@@ -1,14 +1,31 @@
 <div align='center'>
-<h1 align='center'>Hola soy Facu!</h1>
+<h1 align='center'>Hola, soy Facundo!</h1>
 
-![IMAGEN1](imagenes/IMAGEN1.png)
+![IMAGEN3](imagenes/IMAGEN3.png)
 </div>
 
 
 - 🔭Actualmente estoy trabajando en la industria automotriz de Cordoba
 - 🌱 Me escuentro estudiando programacion, profundizando conceptos y experiencias pero desde afuera, no trabajando en el sector.
-- 🚀 Aprendi las siguientes herramientas:
-  
+- 🚀 Aprendi las siguientes herramientas en programacion:
+  - python
+  - Google Cloudshell
+  - windows, linux
+  - AWS
+  - Terraform
+  - Terragraund
+  - Pulumi
+  - Docker
+  - Kubernetes
+  - Mongodb
+  - Prmetheus
+  - Grafana
+- 🚀 Anteriormente aprendi y utlizo las siguientes herramientas para diseno:
+  - AutoCad
+  - Mechanical Descktop
+  - SolidWorks
+  - Catia
+  - Paquete office
 - 📫 La forma de conectarme es a travez de mi email: facusanchez337@gmail.com
 - 😄 Pronombres: Facu, enano y pela, jiji
 
